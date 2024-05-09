@@ -256,7 +256,7 @@ p{
   .topoPag .centraliza h1 { font-size:4em;}
   .topoPag .centraliza p  { letter-spacing:6.5px; }
 
-  .colfooter  { width:22%; margin-right:4%; margin-bottom:0; }
+  .colfooter  { width:20%; margin-right:4%; margin-bottom:0; }
   .colfooter:nth-of-type(4n+0) { margin-right:0; border-right:0;}
 
 }
